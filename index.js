@@ -10,7 +10,7 @@ form.addEventListener("submit", async (e)=> {
     url: 'https://tldrthis.p.rapidapi.com/v1/model/extractive/summarize-text/',
     headers: {
       'content-type': 'application/json',
-      'X-RapidAPI-Key': 'db2ebe4091mshbac733f9e72a74cp1c8668jsn1189f702723a',
+      'X-RapidAPI-Key': '905e1858f5msh6322e1a6a937a2fp18e512jsn5eee0e4d69ed',
       'X-RapidAPI-Host': 'tldrthis.p.rapidapi.com'
     },
     data: {
